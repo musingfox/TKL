@@ -2,9 +2,9 @@
 cover: /img/bg_img.jpg
 logo: /img/logo.png
 top_saying:
-- title: YOU'VE MADE A <span>BRAVE</span> DECISION, WELCOME.
-- content: 每一个不曾起舞的日子都是对生命的辜负。
-bottom_saying: 虽然还没想好写点什么，但是总觉得这里放句话比较和谐。
+- title: 成功高中銅鳴口琴社57屆成果發表會
+- content: <成發名稱>
+bottom_saying: 成功高中銅鳴口琴社
 # Content
 excerpt_link: Read More
 
@@ -29,11 +29,7 @@ disqus_shortname:
 fancybox: true
 
 # Miscellaneous
-github: https://github.com/
-twitter: https://twitter.com/
-facebook: https://www.facebook.com/
-google: https://google.com/
-weibo: http://weibo.com/
+facebook: https://www.facebook.com/CGTMHC/
 
 #about  timeline
 timeline:
